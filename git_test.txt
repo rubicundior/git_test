@@ -7,3 +7,5 @@ git init 후 git status 후
 git add 파일명 입력후
 git commit -m "메세지 내용" 을 입력한다.
 그후 git push origin 브런치명 을 입력해 준다.
+git config --global user.email"rhalsgur0920@gmail.com"
+git config --global user.name"Rubicundior"
