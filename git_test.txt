@@ -1,3 +1,9 @@
 깃테스트
 새로추가
 세번째 추가
+
+파일을 만들고 내용을 저장후
+git init 후 git status 후
+git add 파일명 입력후
+git commit -m "메세지 내용" 을 입력한다.
+그후 git push origin 브런치명 을 입력해 준다.
